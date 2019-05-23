@@ -1,0 +1,16 @@
+
+## Build generated file
+build
+
+## Various settings
+xcuserdata/
+
+## Obj-C/Swift specific
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Cocoapods
+Pods/
+
+

@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  LandmarkRemark
+
+  Created by Mira Kim on 20/05/19.
+  Copyright © 2019 mira. All rights reserved.
+*/
+
+/**
+ Alerts
+ */
+
+"ALERT_HEADING_ERROR" = "Error";
+
+"ALERT_HEADING_LOCATION_DISABLED" = "Location services disabled";
+
+"ALERT_MESSAGE_ADD_NOTE_ERROR" = "Note could not be added";
+
+"ALERT_MESSAGE_NO_TEXT" = "Please enter a message for the note.";
+
+"ALERT_MESSAGE_LOCATION_DISABLED" = "Please enable location services for this app in Settings.";
+
+"ALERT_MESSAGE_NO_LOCATION" = "We cannot find your location. Please enable location services before adding a note.";
+
+"ALERT_MESSAGE_NO_USERNAME" = "You don't have username set. Please complete the setup.";
+
+"ALERT_ACTION_OK" = "OK";
+
+
+/**
+ Screen Titles
+ */
+
+"TITLE_ADD" = "Add Notes";
+
+"TITLE_SEARCH" = "Search Notes";
+
+
+/**
+ Text input
+ */
+"TEXTFIELD_SEARCH_PLACEHOLDER" = "Type something here to search";
+
